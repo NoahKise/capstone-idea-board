@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-01T21:24:50.146Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="19hfpe4Q7Q7VKdJSs89B" version="22.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-01T21:39:57.669Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="sfhnQeyKimgxbiaXpQfE" version="22.1.5" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="794" dy="421" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -79,6 +79,9 @@
         <mxCell id="1764" value="Tabletop Games / Trading Card Games" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#F08705;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
           <mxGeometry x="495" y="290" width="150" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="sF_PMrXq-bfstlx7TxJy-1802" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1765" target="sF_PMrXq-bfstlx7TxJy-1801">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="1765" value="Game Nights" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#f5af58;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
           <mxGeometry x="645" y="200" width="150" height="60" as="geometry" />
         </mxCell>
@@ -100,10 +103,16 @@
         <mxCell id="1771" value="Music / Guitar" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#12aab5;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
           <mxGeometry x="670" y="385.4999999999999" width="150" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="sF_PMrXq-bfstlx7TxJy-1794" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1772" target="sF_PMrXq-bfstlx7TxJy-1793">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="1772" value="Guitar Pedals" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#61c6ce;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
           <mxGeometry x="795" y="480" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1773" value="" style="edgeStyle=none;rounded=1;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;jettySize=auto;orthogonalLoop=1;strokeColor=#12AAB5;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;spacing=5;fontStyle=1;fillColor=#b0e3e6;" parent="1" source="1771" target="1772" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sF_PMrXq-bfstlx7TxJy-1796" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1774" target="sF_PMrXq-bfstlx7TxJy-1795">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1774" value="Albums / Discographies" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#61c6ce;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
@@ -112,10 +121,16 @@
         <mxCell id="1775" value="" style="edgeStyle=none;rounded=1;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;jettySize=auto;orthogonalLoop=1;strokeColor=#12AAB5;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;spacing=5;fontStyle=1;fillColor=#b0e3e6;" parent="1" source="1771" target="1774" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="sF_PMrXq-bfstlx7TxJy-1798" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1776" target="sF_PMrXq-bfstlx7TxJy-1797">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="1776" value="Live Performances" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#61c6ce;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
           <mxGeometry x="890" y="350" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1777" value="" style="edgeStyle=none;rounded=1;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;jettySize=auto;orthogonalLoop=1;strokeColor=#12AAB5;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;spacing=5;fontStyle=1;fillColor=#b0e3e6;" parent="1" source="1771" target="1776" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sF_PMrXq-bfstlx7TxJy-1800" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1778" target="sF_PMrXq-bfstlx7TxJy-1799">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1778" value="Jay&#39;s Guitar Shop" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#61c6ce;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
@@ -133,11 +148,26 @@
         <mxCell id="sF_PMrXq-bfstlx7TxJy-1786" value="Website For Paiku" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=14;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="40" y="160" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="sF_PMrXq-bfstlx7TxJy-1788" value="Trip planner with API for gas prices, roadside attractions, rest stops, campgrounds, etc." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="sF_PMrXq-bfstlx7TxJy-1788" value="&lt;font color=&quot;#ffffff&quot;&gt;Trip planner with API for gas prices, roadside attractions, rest stops, campgrounds, etc.&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="290" y="670" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="sF_PMrXq-bfstlx7TxJy-1789" value="App to listen for campground cancellations and send a text alert" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="sF_PMrXq-bfstlx7TxJy-1789" value="&lt;font color=&quot;#ffffff&quot;&gt;App to listen for campground cancellations and send a text alert&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="700" y="670" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="sF_PMrXq-bfstlx7TxJy-1793" value="&lt;font color=&quot;#ffffff&quot;&gt;App to build a pedalboard from a library of pedals and see prices from each using API&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0f4f7;strokeColor=#0e8088;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="900" y="600" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="sF_PMrXq-bfstlx7TxJy-1795" value="&lt;font color=&quot;#ffffff&quot;&gt;Playlist-building app that lets you share with friends and attach notes to albums&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0f4f7;strokeColor=#0e8088;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="990" y="500" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="sF_PMrXq-bfstlx7TxJy-1797" value="&lt;font color=&quot;#ffffff&quot;&gt;App that lets users make entries for shows they&#39;ve been to with opening act information and set lists.&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0f4f7;strokeColor=#0e8088;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="220" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="sF_PMrXq-bfstlx7TxJy-1799" value="&lt;font color=&quot;#ffffff&quot;&gt;Website for Parrotdice guitars, searchable, storefront,&amp;nbsp;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0f4f7;strokeColor=#0e8088;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="840" y="100" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="sF_PMrXq-bfstlx7TxJy-1801" value="&lt;font color=&quot;#ffffff&quot;&gt;App for users to make profiles with games they like to play and connect playgroups&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="665" y="70" width="160" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
