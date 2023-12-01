@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-01T19:40:19.927Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="e_wr8krJ-zwyegfqRYou" version="22.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-01T21:24:50.146Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="19hfpe4Q7Q7VKdJSs89B" version="22.1.5" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="794" dy="421" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -61,11 +61,17 @@
         <mxCell id="1760" value="Outdoors / Camping" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#1699d3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=1;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
           <mxGeometry x="495" y="480" width="150" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="sF_PMrXq-bfstlx7TxJy-1792" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1761" target="sF_PMrXq-bfstlx7TxJy-1789">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="1761" value="National Parks" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#64bbe2;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
           <mxGeometry x="640" y="570" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1762" value="Camper Vans / Conversions" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#64bbe2;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
           <mxGeometry x="495" y="640" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sF_PMrXq-bfstlx7TxJy-1791" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1763" target="sF_PMrXq-bfstlx7TxJy-1788">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1763" value="Road Trips" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#64bbe2;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
           <mxGeometry x="340" y="570" width="150" height="60" as="geometry" />
@@ -126,6 +132,12 @@
         </mxCell>
         <mxCell id="sF_PMrXq-bfstlx7TxJy-1786" value="Website For Paiku" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=14;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="40" y="160" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="sF_PMrXq-bfstlx7TxJy-1788" value="Trip planner with API for gas prices, roadside attractions, rest stops, campgrounds, etc." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="290" y="670" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="sF_PMrXq-bfstlx7TxJy-1789" value="App to listen for campground cancellations and send a text alert" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="700" y="670" width="160" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
