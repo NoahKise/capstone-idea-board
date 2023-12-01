@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-01T21:50:30.262Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="M2TC9cWOHwuHfw_c2NP2" version="22.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-01T22:17:57.845Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="mvzC-h8FvojZuFi4mQs1" version="22.1.5" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="794" dy="421" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -39,6 +39,9 @@
         </mxCell>
         <mxCell id="1754" value="Hot Sauce" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#f08e81;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
           <mxGeometry x="190" y="480" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sF_PMrXq-bfstlx7TxJy-1813" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1755" target="sF_PMrXq-bfstlx7TxJy-1807">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1755" value="Youtube Recipe Shows" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#f08e81;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;fontStyle=0;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
           <mxGeometry x="140" y="384" width="150" height="60" as="geometry" />
@@ -95,6 +98,9 @@
           <mxGeometry x="490" y="130" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1768" value="" style="edgeStyle=none;rounded=0;jumpStyle=none;html=1;shadow=0;labelBackgroundColor=none;startArrow=none;startFill=0;endArrow=classic;endFill=1;jettySize=auto;orthogonalLoop=1;strokeColor=#F08705;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;spacing=5;" parent="1" source="1764" target="1767" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sF_PMrXq-bfstlx7TxJy-1806" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1769" target="sF_PMrXq-bfstlx7TxJy-1805">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1769" value="Magic the Gathering" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=3;fillColor=#f5af58;fontFamily=Helvetica;fontSize=14;fontColor=#FFFFFF;align=center;spacing=5;arcSize=7;perimeterSpacing=2;" parent="1" vertex="1">
@@ -177,6 +183,9 @@
         </mxCell>
         <mxCell id="sF_PMrXq-bfstlx7TxJy-1805" value="&lt;font color=&quot;#ffffff&quot;&gt;App to suggest a commander to build around based on user input preferences&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="300" y="70" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="sF_PMrXq-bfstlx7TxJy-1807" value="App to take ingredients you have and suggest a youtube recipe to make" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=14;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="10" y="280" width="160" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
